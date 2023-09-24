@@ -1,0 +1,22 @@
+html{
+    min-width: 20em;
+    background-color: lightgoldenrodyellow;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#jokeElement{
+    display: flexbox;
+    margin: auto 10px;
+    border: 10;
+}
+
+.footertext{
+    font-size: 2rem;
+    text-align: center; 
+    color: #4F2B73;
+}
